@@ -1,5 +1,6 @@
  # **hello👋**
 # i do little bit of py and (quit C++)
+# now im into C# (it the best)
 
 |i|am  |
 |--|--|
